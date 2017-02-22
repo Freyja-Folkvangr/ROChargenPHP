@@ -47,9 +47,9 @@ Client::$AutoExtract  =     true                 ;   // If true, client will sav
 DB::$path             =     __ROOT__ . "db/"     ;   // The db folder (where is located the lua likes files)
 //- Sql
 Controller::$hostname =     "127.0.0.1"          ;   // Mysql Host
-Controller::$database =     "ragnarok"           ;   // Database Name
-Controller::$username =     "ragnarok"           ;   // Database Username
-Controller::$password =     "ragnarok"           ;   // Database Pass
+Controller::$database =     "folkvangr"           ;   // Database Name
+Controller::$username =     "folkvangr_flux"           ;   // Database Username
+Controller::$password =     "B5FZWq3wC0oYRRyy"           ;   // Database Pass
 /// -----------------------------------------------------------------
 
 
